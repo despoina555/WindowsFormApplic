@@ -1,0 +1,11 @@
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csprojAssemblyReference.cache
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
+C:\Users\dpapathe\source\repos\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.ResolveComReference.cache
