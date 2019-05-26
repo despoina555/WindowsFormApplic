@@ -39,7 +39,7 @@ namespace WindowsFormsApplication
                 //create buttom to export  in excel
                 Button export2ExcelButton = new Button();
                 export2ExcelButton.Location =  new Point(button1.Top, button1.Left+50);                
-                export2ExcelButton.Size = new Size(75, 75);
+                export2ExcelButton.Size = new Size(100, 35);
                 export2ExcelButton.Text = "Excel Export";
                 export2ExcelButton.Visible = true;
                 export2ExcelButton.Click +=  export2ExcelButton_Click;    
