@@ -1,0 +1,28 @@
+
+Private Sub Button1_Click()
+Range("B2").CurrentRegion.Select
+    Selection.Sort Key1:=Range("B2"), Order1:=xlDescending, Header:=xlGuess, _
+        OrderCustom:=1, MatchCase:=False, Orientation:=xlTopToBottom, _
+        DataOption1:=xlSortNormal
+        
+     
+    Dim wb As Workbook
+    Set wb = ActiveWorkbook
+    Dim ws As Worksheet
+    Set ws = wb.Sheets.Add(Type:=xlWorksheet, After:=Application.ActiveSheet)
+       
+     Sheets("Sheet1").Select
+    ' Loop through each row
+    For x = 2 To 6
+            Cells(x, 1).Resize(1, 33).Copy
+            ws.Select
+            ws.Activate
+            ws.Cells(x - 1, 1).Select
+            ActiveSheet.Paste
+            Sheets("Sheet1").Select
+    Next x
+End Sub
+
+
+
+
